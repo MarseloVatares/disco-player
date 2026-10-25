@@ -1,0 +1,20 @@
+GROOVE — protótipo de biblioteca musical
+
+O que é
+Protótipo web responsivo, com visualização de frente, verso e encarte interno; vinil/DVD animado; busca; favoritos; playlists demonstrativas; importação e reprodução de arquivos de áudio locais.
+
+Como testar no computador
+1. Extraia o ZIP.
+2. Abra index.html em um navegador moderno.
+3. Clique em Importar e escolha MP3, WAV, M4A, OGG ou outros arquivos de áudio compatíveis.
+4. Abra um álbum para alternar entre Frente, Verso e Encarte interno. Escolha Vinil ou DVD.
+
+Instalação no iPhone
+Para instalar como PWA, os arquivos precisam estar publicados em um endereço HTTPS. Abra esse endereço no Safari, toque em Compartilhar e escolha Adicionar à Tela de Início. Abrir o HTML localmente não instala um app no iPhone.
+
+Importante
+• Os álbuns e as faixas que aparecem de início são fictícios e demonstrativos.
+• Arquivos locais são reproduzidos no navegador; não são enviados a um servidor.
+• A lista importada não é persistida após atualizar/fechar a página nesta versão.
+• Não há integração com Spotify, Discogs ou catálogo de streaming. Isso exige APIs, autenticação e permissões apropriadas.
+• O projeto é um protótipo funcional de interface, não um aplicativo publicado nas lojas.

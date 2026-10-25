@@ -1,0 +1,17 @@
+{
+  "name": "Disco — sua coleção musical",
+  "short_name": "Disco",
+  "description": "Explore álbuns por inteiro: capas, encartes e discos animados.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10100f",
+  "theme_color": "#10100f",
+  "icons": [
+    {
+      "src": "maselo-logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
